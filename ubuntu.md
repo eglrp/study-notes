@@ -1,11 +1,14 @@
 #笔记——ubuntu部分操作
+
 [TOC]
+
 ##常用快捷键
 ###窗口
 -  Ctrl + Super +上下左右 —— 最大化、恢复大小/最小化、左停靠、右停靠
 - Ctrl+Super+d —— 隐藏全部正常窗口（到桌面）
 - Alt+F7 —— 激活移动窗口功能
 - Ctrl + Alt + L —— 锁屏
+
 ###终端
 - Tab —— 补全
 - Ctrl+a —— 开始位置
@@ -25,6 +28,7 @@
 - Shift+Pgup/Pgdown —— 终端上下翻页滚动
 - Ctrl+Shift+n —— 新终端（相当于Ctrl+Alt+t？？）
 - Ctrl+c —— 终止
+
 ###Nautilus
 - Shift+Ctrl+N —— 新建文件夹
 - Alt + Enter —— 查看选择文件/文件夹的属性
@@ -38,6 +42,7 @@
 - F9 —— 开关显示Nautilus侧边栏
 - Ctrl + H ——开关显示隐藏文件夹
 - Ctrl+L —— 当前路径
+
 ***
 ##有用的修改
 ###将Ubuntu窗口按钮调整到右边
