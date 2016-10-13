@@ -1,29 +1,108 @@
 #markdown学习笔记
 
-[TOC]
+[TOCtest]
 
-
-<link rel="stylesheet" href="http://yandex.st/highlightjs/6.2/styles/googlecode.min.css">
-  
-<script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
-<script src="http://yandex.st/highlightjs/6.2/highlight.min.js"></script>
-  
-<script>hljs.initHighlightingOnLoad();</script>
-<script type="text/javascript">
- $(document).ready(function(){
-      $("h2,h3,h4,h5,h6").each(function(i,item){
-        var tag = $(item).get(0).localName;
-        $(item).attr("id","wow"+i);
-        $("#category").append('<a class="new'+tag+'" href="#wow'+i+'">'+$(this).text()+'</a></br>');
-        $(".newh2").css("margin-left",0);
-        $(".newh3").css("margin-left",20);
-        $(".newh4").css("margin-left",40);
-        $(".newh5").css("margin-left",60);
-        $(".newh6").css("margin-left",80);
-      });
- });
-</script>
-<div id="category"></div>
+<div class="toc">
+   <ul>
+    <li>
+     <a href="#markdown">
+      markdown学习笔记
+     </a>
+     <ul>
+      <li>
+       <a href="#html">
+        兼容HTML
+       </a>
+      </li>
+      <li>
+       <a href="#_1">
+        特殊字符转换
+       </a>
+      </li>
+      <li>
+       <a href="#_2">
+        区块元素
+       </a>
+       <ul>
+        <li>
+         <a href="#_3">
+          段落和换行
+         </a>
+        </li>
+        <li>
+         <a href="#_4">
+          标题
+         </a>
+        </li>
+        <li>
+         <a href="#blockquotes">
+          区块引用 Blockquotes
+         </a>
+        </li>
+        <li>
+         <a href="#_5">
+          列表
+         </a>
+        </li>
+        <li>
+         <a href="#_6">
+          代码区块
+         </a>
+        </li>
+        <li>
+         <a href="#_7">
+          分割线
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <a href="#_8">
+        区段元素
+       </a>
+       <ul>
+        <li>
+         <a href="#_9">
+          链接
+         </a>
+        </li>
+        <li>
+         <a href="#_10">
+          强调
+         </a>
+        </li>
+        <li>
+         <a href="#_11">
+          代码
+         </a>
+        </li>
+        <li>
+         <a href="#_12">
+          图片
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li>
+       <a href="#_13">
+        表格
+       </a>
+      </li>
+      <li>
+       <a href="#github">
+        github上注意点
+       </a>
+      </li>
+      <li>
+       <a href="#_14">
+        参考
+       </a>
+      </li>
+     </ul>
+    </li>
+   </ul>
+  </div>
+  <hr/>
 
 
 ***
