@@ -38,8 +38,9 @@
 - F9 —— 开关显示Nautilus侧边栏
 - Ctrl + H ——开关显示隐藏文件夹
 - Ctrl+L —— 当前路径
+***
 ##有用的修改
 ###将Ubuntu窗口按钮调整到右边
-1. Alt + F2 ，在运行中输入gconf-editor	
+1. Alt + F2 ，在运行中输入gconf-editor 
 2. 在左侧目录树中，找到 /apps/metacity/general/ 
 3. 在右侧找到键： button_layout ， 修改值为 menu:minimize,maximize,close
