@@ -9,7 +9,7 @@
 	- 在 HTML 区块标签间的 Markdown 格式语法将不会被处理
 - HTML 的区段（行内）标签 —— 如 &lt;span>、&lt;cite>、&lt;del>
  	- 可以在 Markdown 的段落、列表或是标题里随意使用
- 	- Markdown 语法在 HTML 区段标签间是有效的
+ 	- Markdown 语法在 HTML 区段标签间是有效的  
 ***
 ##特殊字符转换
 - 如果使用的字符是 HTML 字符实体的一部分，markdown会保留原状，否则它会被转换成&xxx;形式 
@@ -91,10 +91,12 @@
 ***
 ##github上注意点
 - 不支持回车换行，需在行尾使用两个空格
+- 标题与列表项目间空行，否则不使用标题格式  
+
 ***
 ##参考
-- [Markdown 语法说明] []
-- [Markdown，你只需要掌握这几个] []
+- [Markdown 语法说明] []  
+- [Markdown，你只需要掌握这几个] []  
 ***
 [Markdown 语法说明]: http://wowubuntu.com/markdown/index.html
 [Markdown，你只需要掌握这几个]: http://www.cnblogs.com/crazyant007/p/4220066.html?utm_source=tuicool&utm_medium=referral
