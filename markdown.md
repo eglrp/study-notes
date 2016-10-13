@@ -74,7 +74,8 @@
 - 使用*或_，一个为斜线，两个为加粗***(不能两边都为空格)***
 
 ###代码
-- 使用\`***（若在代码中也要使用\`，则使用多个反引号来开启和结束）***
+- 单行：使用\`***（若在代码中也要使用\`，则使用多个反引号来开启和结束）***
+- 多行：使用\`\`\`
 
 ###图片
 - 与链接类似，在前面加！***好像还不能设置大小，还是用\<img\>吧。。。***
@@ -111,5 +112,6 @@
 - [Markdown 语法说明] []
 - [Markdown，你只需要掌握这几个] []
 ***
+
 [Markdown 语法说明]: http://wowubuntu.com/markdown/index.html
 [Markdown，你只需要掌握这几个]: http://www.cnblogs.com/crazyant007/p/4220066.html?utm_source=tuicool&utm_medium=referral
