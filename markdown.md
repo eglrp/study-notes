@@ -4,12 +4,13 @@
 
 ***
 ##兼容HTML
-- HTML 区块元素――如 &lt;div>、&lt;table>、&lt;pre>、&lt;p> 等标签
+- HTML 区块元素――如 &lt;div>、&lt;table>、&lt;pre>、&lt;p> 等标签  
 --  必须在前后加上空行与其它内容区隔开，还要求它们的开始标签与结尾标签不能用制表符或空格来缩进
--- 在 HTML 区块标签间的 Markdown 格式语法将不会被处理
-- HTML 的区段（行内）标签 —— 如 &lt;span>、&lt;cite>、&lt;del> 
--- 可以在 Markdown 的段落、列表或是标题里随意使用
--- Markdown 语法在 HTML 区段标签间是有效的
+-- 在 HTML 区块标签间的 Markdown 格式语法将不会被处理  
+- HTML 的区段（行内）标签 —— 如 &lt;span>、&lt;cite>、&lt;del>
+ 
+-- 可以在 Markdown 的段落、列表或是标题里随意使用  
+-- Markdown 语法在 HTML 区段标签间是有效的  
 
 ***
 ##特殊字符转换
