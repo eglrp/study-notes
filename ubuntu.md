@@ -49,3 +49,6 @@
 1. Alt + F2 ，在运行中输入gconf-editor 
 2. 在左侧目录树中，找到 /apps/metacity/general/ 
 3. 在右侧找到键： button_layout ， 修改值为 menu:minimize,maximize,close
+
+***
+##部分工具安装
