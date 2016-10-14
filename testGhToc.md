@@ -17,15 +17,19 @@
 [中mix英MIX混（小写——去中）](#mixmix)  
 [中1- 1数-?-+-符 空（空格替换，其余不管）](#中1-1数符-空)  
 [中1- 1数-?-+-符 空（空格替换，-保留）](#中1--1数---符-空)  
-[en-----and-（不用）](#enand)
-[en-----and-（用一-）](#en-and-)
-[en-----and-（都用-）](#en-----and-)
+[en-----and-（不用）](#enand)   
+[en-----and-（用一-）](#en-and-)  
+[en-----and-（都用-）](#en-----and-)  
   
-
+[编辑~/.ssh/config文件](#编辑~sshconfig文件)  
+[编辑~/.ssh/config文件](#编辑-sshconfig文件)  
+[编辑~/.ssh/config文件](#编辑sshconfig文件)  
 
 
 #此文件用于测试github上认可的toc格式
 ##中文1与1数字
+
+##编辑~/.ssh/config文件
 
 ##中文中 含一空格
 
