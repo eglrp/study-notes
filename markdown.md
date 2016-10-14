@@ -1,6 +1,6 @@
 #markdown学习笔记
 
-[sdsad](#1-1-html)
+[sdsad](#特殊字符转换)
 
 ##兼容1- 1    --- // *   ------HTML
 - HTML 区块元素――如 &lt;div>、&lt;table>、&lt;pre>、&lt;p> 等标签
