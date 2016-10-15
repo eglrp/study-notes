@@ -139,7 +139,6 @@
 ##参考
 - [Markdown 语法说明] []
 - [Markdown，你只需要掌握这几个] []
-***
 
 [Markdown 语法说明]: http://wowubuntu.com/markdown/index.html
 [Markdown，你只需要掌握这几个]: http://www.cnblogs.com/crazyant007/p/4220066.html?utm_source=tuicool&utm_medium=referral  
