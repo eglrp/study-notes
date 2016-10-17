@@ -57,7 +57,8 @@
 ##有用的修改
 ###开机启用小键盘
 1. sudo vim /etc/rc.local
-2. 在exit 0前输入 
+2. 在exit 0前输入
+ 
  	for tty in /dev/tty[1-9]*;do 	  
  		set -D +num < $tty
  	done
