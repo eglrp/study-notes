@@ -55,15 +55,6 @@
 
 ***
 ##有用的修改
-###开机启用小键盘
-1. sudo vim /etc/rc.local
-2. 在exit 0前输入
-```
- for tty in /dev/tty[1-9]*;do 
- 	set -D +num < $tty
- done
-```
-
 ###将Ubuntu窗口按钮调整到右边
 1. Alt + F2 ，在运行中输入gconf-editor 
 2. 在左侧目录树中，找到 /apps/metacity/general/ 
