@@ -62,6 +62,20 @@
 
 ***
 ##部分工具安装
-  
+### 网卡驱动修改
+1. ifconfig -a 查看所有网卡名
+2. ethtool -i \[网卡名] ：查询指定网卡信息；例如：ethtool-i eth0；需要注意driver，相当于驱动编号。
+ 3. lspci| grep -i net ：查看网卡型号和生产厂商的信息（分别为无线网卡，有线网卡）
+ 4. lspci -v先查看该网卡对应驱动的版本号，该命令会列出所有pci的设备，网卡信息通常在最下面
+ 5. 找到网卡对应型号(RTL8111/8168/8411), 然后到Realtek官网 http://www.realtek.com/search/default.aspx?keyword=RTL8111
+下载对应驱动（r8168），得到的tar.gz文件后，解压到HOME文件夹下，
+然后执行该文件夹内的autorun.sh（使用sudo./autorun.sh）即可安装成功，并能自动替换内核使用的驱动，
+
+***
+##终端命令
+1. lsb_release -a 查看ubuntu版本
+2. uname -r 查看内核
+
+
   
   
