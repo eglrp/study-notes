@@ -83,7 +83,12 @@
 ***
 ##终端命令
 1. lsb_release -a 查看ubuntu版本
-2. uname -r 查看内核
+2. uname -r 查看内核  
+
+***
+## 一些有用的东西  
+1. wps备份在 ~/.local/share/data/Kingsoft/wps/Kingsoft/office6/backup/  
+
 
 
   
