@@ -29,4 +29,26 @@ I don't want t to be a third wheel
 15. 火锅
 hot pot/hotpot
 16. 这是常事
-it happens
+it happens  
+17. 不管你信不信
+believe it or not  
+18. 你知道自己在说些什么吗  
+have you listen to yourself?  
+19. 一次性  
+disposable  
+20. 你太不靠谱了
+shaky  
+21. 众口味(?) 
+hardcore  
+22. 没错，准是他  
+as sure as a gun，this is he.
+23. 别扯淡了
+stop yapping!  
+24. 睡眠不足  
+sleep-deprived
+25. 是的
+you bet  
+
+
+
+ 
