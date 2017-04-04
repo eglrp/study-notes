@@ -1,15 +1,16 @@
 ***
 ## 配置
 1. vim /etc/vim/vimrc
-2. set nu                     " 在左侧行号
-set tabstop=4              " tab 长度设置为 4
-set nobackup               " 覆盖文件时不备份
-set cursorline             " 突出显示当前行
-set ruler                  " 在右下角显示光标位置的状态行
-set autoindent             " 自动缩进
-set showmatch              " 高亮显示匹配的括号
-set hlsearch               " 高亮搜索
-set incsearch              " 输入搜索内容时就显示搜索结果   
+2. set nu                     " 在左侧行号  
+set tabstop=4              " tab 长度设置为 4  
+set nobackup               " 覆盖文件时不备份  
+set cursorline             " 突出显示当前行  
+
+set ruler                  " 在右下角显示光标位置的状态行  
+set autoindent             " 自动缩进  
+set showmatch              " 高亮显示匹配的括号  
+set hlsearch               " 高亮搜索  
+set incsearch              " 输入搜索内容时就显示搜索结果    
 
 ***
 ## vundle安装与使用
