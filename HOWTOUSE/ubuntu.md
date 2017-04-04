@@ -88,9 +88,8 @@
 ***
 ## 一些有用的东西  
 1. wps备份在 ~/.local/share/data/Kingsoft/wps/Kingsoft/office6/backup/  
-
-
-
-  
+2. 安装deb：dpkg -i xxx
+3. 自动安装依赖：sudo apt install -f
+4. 修改root密码
   
   
